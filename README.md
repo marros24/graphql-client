@@ -12,7 +12,7 @@ GraphQL API documentation [here](https://graphql-docs.wpjshop.cz/)
 ### Instantiate a client
 ```php
 <?php
-$client = new \WpjShop\GraphQL\Client('https://your-domain/admin/graphql', '<authentication-token>');
+$client = new \WpjShop\GraphQL\Client('https://bagosport.cz/admin/graphql', 'aa2589b5cbddb845e6dc663a8636740e');
 ```
 
 ### Using the GraphQL Client
